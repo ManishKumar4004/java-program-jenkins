@@ -7,5 +7,6 @@ public class main{
         System.out.println(new Date()); 
         System.out.println("Goodbye!");
         System.out.println("This line has a typo.");
+        System.out.println("Fixing the typo now.");
     }
 }
