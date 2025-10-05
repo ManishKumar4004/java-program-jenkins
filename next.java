@@ -4,5 +4,6 @@ public class next {
         System.out.println("It serves as a follow-up to the main program.");   
         System.out.println("Goodbye from the next program!");
         System.out.println("lets go");
+        System.out.println("Do it work?");
     }
 }
